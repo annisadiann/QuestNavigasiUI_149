@@ -11,3 +11,8 @@ import androidx.navigation.compose.rememberNavController
 import com.example.praktikum5.view.FormIsian
 import com.example.praktikum5.view.TampilData
 
+enum class Navigasi {
+    Formulirku,
+    Detail
+}
+
